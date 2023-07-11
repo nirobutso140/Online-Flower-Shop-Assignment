@@ -38,19 +38,19 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 50px 120px 50px 50px;
+    padding: 50px 120px 0 50px;
     background: rgba(229, 84, 115, 0.10);
     margin-bottom: 100px;
 }
 header > img{
-    width: 450px;
+    width: 570px;
 }
 .header_content{
     padding: 100px 50px;
 }
 .header_content > h1{
     color: #272727;
-    font-size: 4.4rem;
+    font-size: 4.0rem;
     margin-bottom: 25px;
 }
 .header_content > p{
